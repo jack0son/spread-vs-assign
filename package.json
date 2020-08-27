@@ -1,0 +1,28 @@
+{
+  "name": "spread-vs-assign",
+  "version": "1.0.0",
+  "description": "Benchmark",
+  "main": "spread-vs-assign.js",
+  "scripts": {
+    "start": "node spread-vs-assign.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgitgud/spread-vs-assign.git"
+  },
+  "keywords": [
+    "benchmark",
+    "spread",
+    "assign"
+  ],
+  "author": "jgitgud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgitgud/spread-vs-assign/issues"
+  },
+  "homepage": "https://github.com/jgitgud/spread-vs-assign#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
